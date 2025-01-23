@@ -22,9 +22,13 @@ class MainActivity : AppCompatActivity() {
             //Colocar ação no botão setOnClickListener
         btn_calcular.setOnClickListener {
             //Recuperar o texto digitado no EditPeso e no EditAltura
-            val peso = edtPeso.text
-            val altura = edtAltura.text
-            println("Herom ação do botão" + altura)
+            val peso: Float = edtPeso.text.toString().toFloat()
+            val altura: Float = edtAltura.text.toString().toFloat()
+
+            val alturaQ2 = altura * altura
+            val resultado = peso / alturaQ2
+            println("Herom ação do botão" + resultado)
+
         }
 
     }
