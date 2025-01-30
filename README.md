@@ -3,8 +3,9 @@ Esse projeto é um android nativo de linguagem Kotlin onde recebe valores de pes
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/user-attachments/assets/798e1ca9-ccb6-476d-bd65-2cbee5b32c87" width=160>
-<img src="https://github.com/user-attachments/assets/0470b8d6-a0e4-4485-bdc6-7460854760ac" width=160>
+<img src="https://github.com/user-attachments/assets/7e23ff21-0c28-428c-a3dd-8fba4a589294" width=160>
+<img src="https://github.com/user-attachments/assets/069e3a8e-6bde-4077-a11c-292f4bc29cb8" width=160>
+
 
 
 ## Tecnologias
